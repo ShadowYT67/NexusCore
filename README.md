@@ -1,4 +1,21 @@
-# NexusCore
+# NexusCore v1.0 | 12 modułów(Pluginów) (Paper 1.21.8-1.21.11)
+
+Nowoczesny NexusCore ktory z polczeniu z EssentialsX tworzy zarobiste combo...
+
+### Wymagania żeby NexusCore zadziałał:
+**`System:`**
+- **Silnik** — Paper 1.21.8
+- **Java** — 21+
+
+**`Pluginy:`**
+- **EssentialsX**
+- **Vault**
+- **LuckPerms**.
+- **PlaceholderAPI**.
+
+### Czemu NexusCore wazy tak duzo?
+> **Przez ładowanie sterownikow sql i mysql do .jar.**
+
 ## Commands
 
 | Komenda | Aliasy | Opis | Użycie | Permission |
@@ -47,4 +64,3 @@
 | `NexusCore.Gamma.use` | op | Gamma: `/gamma`. |
 | `NexusCore.Security.admin` | op | Security: `/security reload`. |
 | `NexusCore.Security.AntySpy.bypass` | op | Security: bypass (AntySpy). |
-
