@@ -13,8 +13,28 @@ Nowoczesny NexusCore ktory z polczeniu z EssentialsX tworzy zarobiste combo...
 - **LuckPerms**.
 - **PlaceholderAPI**.
 
-### Czemu NexusCore wazy tak duzo?
-> **Przez ładowanie sterownikow sql i mysql do .jar.**
+### Informacje...
+> - **Czemu NexusCore tyle wazy?** - **Przez ładowanie sterownikow sql i mysql do .jar.**
+> - **Co do Aktualizacji?** - **Beda co jakis czas darmowe (Chyba ze posiadasz konto premium to wtedy masz caly czas).
+
+**`Wszystkie moduły:`**
+- **Addons**
+- **StrefaAFK**
+- **StartEdycji**
+- **Portfel**
+- **Security**
+- **SetSpawn**
+- **Rtp**
+- **Otchlan**
+- **Ban**
+- **Mute**
+- **Helpop**
+- **Chat**
+- **ChatFormat**
+- **Effekt**
+- **Gamma**
+- **Kosz**
+- **Links**
 
 ## Commands
 
